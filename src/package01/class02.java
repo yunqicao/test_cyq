@@ -6,4 +6,6 @@ public class class02 {
 	int a;
 	int b;
 	String var;
+	String cyq;
+	
 }
